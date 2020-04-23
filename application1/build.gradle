@@ -1,0 +1,8 @@
+plugins {
+    id 'java'
+    id 'application' 
+}
+
+
+group 'org.nachiappan'
+version '1.0-SNAPSHOT'

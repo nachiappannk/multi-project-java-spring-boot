@@ -1,0 +1,6 @@
+rootProject.name = 'multi-project-java-spring-boot'
+
+include 'application1'
+include 'application2'
+include 'monolith'
+

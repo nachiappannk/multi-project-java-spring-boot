@@ -1,0 +1,14 @@
+plugins {
+    id 'java'        
+    id 'application' 
+}
+
+group 'org.nachiappan'
+version '1.0-SNAPSHOT'
+
+dependencies {
+    compile project(':application1') 
+    compile project(':application2')
+}
+
+
